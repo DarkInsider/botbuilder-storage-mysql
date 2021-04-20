@@ -1,0 +1,19 @@
+{
+  "name": "@dark_insider/botbuilder-storage-mysql",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "DarkInsider/botbuilder-storage-mysql",
+  "main": "dist/MysqlStorage.js",
+  "types": "dist/MysqlStorage.d.ts",
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "dependencies": {
+    "botbuilder": "^4.12.0",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
